@@ -1,3 +1,5 @@
+# Обо мне:
+
 - 👋 Hi, I’m @Alla-Kuhtenko
 - 👀 I’m interested in marketing, visualization, analytics
 - 🌱 I’m currently learning SQL
