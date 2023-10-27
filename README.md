@@ -43,9 +43,9 @@ You can click the Preview link to take a look at your changes.
 </tr> 
 
 <tr>
-  <td><a href ="[https://github.com/](https://github.com/Alla-Kuhtenko/Portfolio_YP/blob/main/Apartment-sales/Apartment-sales.ipynb)">Исследование объявлений о продаже квартир</a></td>
+  <td><a href = "https://github.com/Alla-Kuhtenko/Portfolio_YP/tree/main/Apartment-sales/">Исследование объявлений о продаже квартир</a></td>
   <td>Яндекс.Практикум</td>
-  <td>Провести исследовательский анализ данных, который поможет установить параметры, влияющие на цену объектов. </td>
+  <td>Провести исследовательский анализ данных, который поможет установить параметры, влияющие на цену объектов.</td>
   <td>pandas, seaborn, matplotlib.pyplot</td>
 </tr>
 
