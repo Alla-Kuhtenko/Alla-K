@@ -39,13 +39,13 @@ You can click the Preview link to take a look at your changes.
   <th>Название проекта</th>
   <th>Источник проекта</th>
   <th>Описание</th>
-  <th>Статус проекта</th>
+  <th>Стек</th>
 </tr> 
 
 <tr>
-    <td><a href = "https://github.com/">Исследование объявлений о продаже квартир</a></td>
+    <td><a href = "[https://github.com/](https://github.com/Alla-Kuhtenko/Portfolio_YP/blob/main/Apartment-sales/Apartment-sales.ipynb)">Исследование объявлений о продаже квартир</a></td>
   <td>Яндекс.Практикум</td>
   <td>Провести исследовательский анализ данных, который поможет установить параметры, влияющие на цену объектов. </td>
-  <td>Завершен</td>
+  <td>pandas, seaborn, matplotlib.pyplot</td>
 </tr>
 
