@@ -4,7 +4,7 @@
 - 👀 I’m interested in marketing, visualization, analytics
 - 🌱 I’m currently learning SQL
 - 💞️ I invite you to collaborate on analytics
-- 📫 How to reach me https://t.me/yatrovkaa
+- 📫 How to reach me https://t.me/...
 
 <!---
 Alla-K./Alla-K. is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
