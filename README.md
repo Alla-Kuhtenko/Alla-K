@@ -27,6 +27,7 @@ You can click the Preview link to take a look at your changes.
   <td> Дистанционная </td>
   <td> Завершен </td>
 </table>
+
 <tr>
   <td> <a href = "https://github.com/Alla-Kuhtenko/YLAB-Development"> YLAB-Development </a></td>
   <td> Дистанционная </td>
